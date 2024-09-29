@@ -1,4 +1,4 @@
-# Invoice Processing and Renaming Tool
+# Image, Pdf file Processing and Renaming Tool
 
 This Python project automates the extraction of details from invoices and bills, renaming image files accordingly. It utilizes the Google Generative AI API (Gemini) to read text from images and extract relevant information like the date, company name, bill number, and amount. The renamed files are organized into designated folders.
 
@@ -32,7 +32,7 @@ This Python project automates the extraction of details from invoices and bills,
 
    ```bash
    git clone https://github.com/devaftab/Intelli_Renamer.git
-   cd <Intelli_Renamer>
+   cd Intelli_Renamer
    ```
 
 2. Install the required packages:
