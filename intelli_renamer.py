@@ -133,4 +133,4 @@ def intelli_renamer(api_key, folder_name):
             print(f"Unexpected error occurred: {e}")
             raise
 
-intelli_renamer('AIzaSyCpVKPJQ7wU2o-glG62Yw9bIN-9EI6q7Ig', 'images')
+intelli_renamer('YOUR_API_KEY', 'YOUR_FOLDER_NAME')
